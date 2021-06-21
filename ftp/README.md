@@ -22,5 +22,5 @@ go test ./...
 
 The library exposes APIs to invoke the state machine based on the request and response line messages that are generated when the FTP client and server communicate. The image capture from Wireshark below highlights the request and response messages for a login sequence -
 
-![FTP Wireshark Capture](https://github.com/r00tu53r/protos/img/ftp_packets.png)
+![FTP Wireshark Capture](https://github.com/r00tu53r/protos/tree/main/ftp/img/ftp_packets.png)
 
